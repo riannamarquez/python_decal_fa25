@@ -1,0 +1,22 @@
+five topics:
+- formation of exoplanets
+- the role of cosmic strings in the formation of the universe
+- characteristics of supernovae
+- black hole remnants
+- instrumentation: gravitational lensing
+
+sources:
+black hole remnants: https://www.kaggle.com/datasets/brsdincer/space-objects-around-black-holes-esa
+    -> this source gives data about space objects around black holes that could help us to better understand its remnants and what black holes actually are and their capabilities.
+formation of exoplanets: https://exoplanetarchive.ipac.caltech.edu/docs/contributed_data.html
+    -> this dataset gives information about optical observations of exoplanets to allow us to understand their characteristics
+cosmic strings: https://ntrs.nasa.gov/citations/20210024010
+    -> this paper discusses the gravitational waves produced by cosmic string loop features which guide us in understanding what cosmic strings can do, which can be synthesized to understand their role in universe formation.
+
+python: black holes:
+    - loops can be used to stimulate different luminosities of light curves to test gravitational lensing effects with existing data by creating a function.
+
+ideas:
+    - ambitious: create an app for astronomers to keep record of their observations of black hole remnants and use visualizations to test how different properties affect each other (luminosity, gravity, etc.)
+    - realistic: create visualizations using matplotlib to pair with functions coded after defining a function as a formula to show correlations between properties.
+
